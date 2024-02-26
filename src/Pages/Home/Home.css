@@ -1,0 +1,16 @@
+
+.home_image {
+    width: 100%;
+    height: 480px;
+    top: 216px;
+}
+
+.guides {
+    display: flex;
+    justify-content: space-between;
+    width: 1200px;
+    height: 402px;
+    top: 752px;
+    left: 120px;
+    gap: 24px;
+}
