@@ -8,7 +8,7 @@ function Footer() {
       <footer>
         <div className="footer">
           <div className="footer-main">
-            <div className="icons">
+            <div className="bottom-icons">
               <img src={logo1} alt="logo" />
               <div className="network">
                 <i class="fa-brands fa-whatsapp"></i>

@@ -268,7 +268,6 @@ function Welcome() {
                         <img src={image22} alt="image22" />
                         <h3>videos</h3>
                     </div>
-
                 </div>                
             </div>
         </div>       

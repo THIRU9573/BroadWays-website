@@ -15,13 +15,13 @@
     top: 61px;
     left: 120px;
 }
-.icons {
+.bottom-icons {
     width: 202px;
     height: 160px;
     gap: 28px;
     padding: 120px;
 }
-.icons img {
+.bottom-icons img {
     width: 202px;
     height: 52px;
 }
